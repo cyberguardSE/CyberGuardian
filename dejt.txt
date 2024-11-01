@@ -1,5 +1,5 @@
 Match.com
-(\.|^)tinder\.com$
+tinder.com
 Badoo.com
 OkCupid.com
 eHarmony.com
